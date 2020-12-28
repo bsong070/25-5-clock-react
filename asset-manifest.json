@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clock-react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/clock-react/static/js/main.ab6a3b7e.chunk.js",
+    "main.js.map": "/clock-react/static/js/main.ab6a3b7e.chunk.js.map",
+    "runtime-main.js": "/clock-react/static/js/runtime-main.99a51a7c.js",
+    "runtime-main.js.map": "/clock-react/static/js/runtime-main.99a51a7c.js.map",
+    "static/js/2.4e3a0625.chunk.js": "/clock-react/static/js/2.4e3a0625.chunk.js",
+    "static/js/2.4e3a0625.chunk.js.map": "/clock-react/static/js/2.4e3a0625.chunk.js.map",
+    "static/js/3.684e1dcc.chunk.js": "/clock-react/static/js/3.684e1dcc.chunk.js",
+    "static/js/3.684e1dcc.chunk.js.map": "/clock-react/static/js/3.684e1dcc.chunk.js.map",
+    "index.html": "/clock-react/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/clock-react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.4e3a0625.chunk.js.LICENSE.txt": "/clock-react/static/js/2.4e3a0625.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/clock-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a51a7c.js",
+    "static/js/2.4e3a0625.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ab6a3b7e.chunk.js"
+  ]
+}
